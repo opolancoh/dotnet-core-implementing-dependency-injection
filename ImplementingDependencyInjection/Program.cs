@@ -1,7 +1,10 @@
+using ImplementingDependencyInjection;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorPages();
+builder.Services.AddTransient<IDate, ShortDate>();
 
 var app = builder.Build();
 

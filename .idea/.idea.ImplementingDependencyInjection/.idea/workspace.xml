@@ -7,8 +7,9 @@
   <component name="ChangeListManager">
     <list default="true" id="f3f51855-03a0-43a3-8f3e-b1919d50a8bf" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ImplementingDependencyInjection/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ImplementingDependencyInjection/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ImplementingDependencyInjection/Pages/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/ImplementingDependencyInjection/Pages/Index.cshtml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ImplementingDependencyInjection/Pages/Index.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ImplementingDependencyInjection/Pages/Index.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImplementingDependencyInjection/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ImplementingDependencyInjection/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImplementingDependencyInjection/ShortDate.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ImplementingDependencyInjection/ShortDate.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +76,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1663656201946</updated>
-      <workItem from="1663656273824" duration="1479000" />
+      <workItem from="1663656273824" duration="2732000" />
     </task>
     <servers />
   </component>

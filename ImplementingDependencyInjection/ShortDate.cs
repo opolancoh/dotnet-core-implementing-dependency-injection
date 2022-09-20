@@ -1,6 +1,6 @@
 namespace ImplementingDependencyInjection;
 
-public class ShortDate
+public class ShortDate : IDate
 {
     private readonly string _date;
 
